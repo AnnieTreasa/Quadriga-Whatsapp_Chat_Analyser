@@ -234,9 +234,6 @@ const App = () => {
                 </S.Select>
               </S.Field>
             </S.Form>
-            <div>
-              <Credits />
-            </div>
           </S.SidebarContainer>
         </S.Sidebar>
       </S.Container>
