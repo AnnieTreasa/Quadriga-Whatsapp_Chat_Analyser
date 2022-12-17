@@ -4,7 +4,6 @@ import { parseString } from 'whatsapp-chat-parser';
 
 import Dropzone from './components/Dropzone/Dropzone';
 import MessageViewer from './components/MessageViewer/MessageViewer';
-import Credits from './components/Credits/Credits';
 import * as S from './style';
 
 import exampleChat from './assets/whatsapp-chat-parser-example.zip';
@@ -235,9 +234,6 @@ const App = () => {
                 </S.Select>
               </S.Field>
             </S.Form>
-            <div>
-              <Credits />
-            </div>
           </S.SidebarContainer>
         </S.Sidebar>
       </S.Container>
