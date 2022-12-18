@@ -11,3 +11,5 @@
 ## Example  
 ![alt text](scr1.jpg)
 ![alt text](scr2.jpg)
+## How to Export Chat
+## Technologies Used
